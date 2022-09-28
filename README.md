@@ -4,6 +4,5 @@
 # CQF_projexts
 # Exam is about SVM classifier
 # Final is about predicting financial series with LSTM, and my work is just a semi-finished product.
-# These are going to be very confusing, I guess, with no question papers, 
-# because I am not sure whether I am allowed to upload the exam questions according to CQF institution.
+# These are going to be very confusing, I guess, with no question papers, because I am not sure whether I am allowed to upload the exam questions according to CQF institution.
 # I just want to prove I have the ability to hit the ground running.
